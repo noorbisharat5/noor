@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498293230721",
+    "project_id": "noor-7272f",
+    "storage_bucket": "noor-7272f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498293230721:android:3989e22bd317de915c9180",
+        "android_client_info": {
+          "package_name": "com.example.noor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZQZ0rGJ-d6C6567ksJN7v6OhfIa-ML0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
